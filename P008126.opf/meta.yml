@@ -1,25 +1,28 @@
-id: opecha:P008126
+id: P008126
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG12222
   title: གསུང་འབུམ། ཆོས་ཀྱི་བློ་གྲོས།
-  volume:
+  author: ''
+  volumes:
     fd01faa45dda4daebc9e2e7db5ff0dfb:
       image_group_id: I1KG12250
       title: Volume 1 of gsung 'bum/_chos kyi blo gros/
       volume_number: 1
       total_pages: 714
+      base_file: v001.txt
     72a8e983b452417fb6f32418c0c29727:
       image_group_id: I1KG12251
       title: Volume 2 of gsung 'bum/_chos kyi blo gros/
       volume_number: 2
       total_pages: 638
+      base_file: v002.txt
     862d6147e8024eecb076873e1db24a6a:
       image_group_id: I1KG12252
       title: Volume 3 of gsung 'bum/_chos kyi blo gros/
       volume_number: 3
       total_pages: 638
-  author: ''
+      base_file: v003.txt
 ebook_metadata:
   title: གསུང་འབུམ། ཆོས་ཀྱི་བློ་གྲོས།
   author: ''
