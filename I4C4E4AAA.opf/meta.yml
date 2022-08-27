@@ -15,9 +15,9 @@ default_language: bo
 source: https://library.bdrc.io
 source_file: null
 initial_creation_type: ocr
-imported: '2022-08-27T02:25:17.944204+00:00'
-last_modified: 2022-08-27 10:28:33.933948
-parser: null
+imported: '2022-08-27T04:26:18.438613+00:00'
+last_modified: 2022-08-27 12:31:04.403261
+parser: https://github.com/OpenPecha/Toolkit/blob/7f57883d84bc10351527a49ee6ce970ace404e50/openpecha/formatters/google_ocr.py
 source_metadata:
   id: http://purl.bdrc.io/resource/W1KG12222
   status: http://purl.bdrc.io/admindata/StatusReleased
@@ -31,6 +31,18 @@ statistics:
   ocr_word_median_confidence_index: 0.9700000286102295
 quality: null
 bases:
+  I1KG12252:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12252
+      total_pages: 638
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I1KG12252.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9800000190734863
+      ocr_word_mean_confidence_index: 0.8902423895116334
+    legacy_id: v003
   I1KG12251:
     source_metadata:
       id: http://purl.bdrc.io/resource/I1KG12251
@@ -55,18 +67,6 @@ bases:
       ocr_word_median_confidence_index: 0.9700000286102295
       ocr_word_mean_confidence_index: 0.857672175895096
     legacy_id: v001
-  I1KG12252:
-    source_metadata:
-      id: http://purl.bdrc.io/resource/I1KG12252
-      total_pages: 638
-      volume_number: 3
-      volume_pages_bdrc_intro: 2
-    order: 3
-    base_file: I1KG12252.txt
-    statistics:
-      ocr_word_median_confidence_index: 0.9800000190734863
-      ocr_word_mean_confidence_index: 0.8902423895116334
-    legacy_id: v003
 copyright:
   status: Public domain
   notice: Public domain
